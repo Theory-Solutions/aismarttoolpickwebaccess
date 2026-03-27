@@ -1,0 +1,22 @@
+title: AIsmarttoolpick - Your Tech and AI Tools Hub
+description: Find the best AI tools, SaaS software, and tech resources to grow your business.
+url: https://aismarttoolpick.com
+baseurl: ""
+
+# GitHub Pages settings
+theme: null
+
+# Build settings
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# SEO
+author: AIsmarttoolpick Editorial
+twitter:
+  username: aismarttoolpick
+social:
+  name: AIsmarttoolpick
+  links:
+    - https://aismarttoolpick.com
